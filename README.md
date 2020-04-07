@@ -11,3 +11,7 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 [Day 4 - Move Zeroes](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-4)
 <br>
 [Day 5 - Best Time to Buy and Sell Stock II](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-5)
+<br>
+[Day 6 - Group Anagrams](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-6)
+<br>
+[Day 7 - Counting Elements](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-7)
