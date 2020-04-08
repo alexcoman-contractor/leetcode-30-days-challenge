@@ -15,3 +15,5 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 [Day 6 - Group Anagrams](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-6)
 <br>
 [Day 7 - Counting Elements](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-7)
+<br>
+[Day 8 - Middle of the linked list](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-8)
