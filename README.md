@@ -20,4 +20,4 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 <br>
 [Day 9 - Backspace string compare](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-09)
 <br>
-[Day 9 - Min stack](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-10)
+[Day 10 - Min stack](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-10)
