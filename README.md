@@ -21,3 +21,5 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 [Day 9 - Backspace string compare](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-09)
 <br>
 [Day 10 - Min stack](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-10)
+<br>
+[Day 11 - Diameter of Binary Tree](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-11)
