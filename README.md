@@ -23,3 +23,9 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 [Day 10 - Min stack](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-10)
 <br>
 [Day 11 - Diameter of Binary Tree](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-11)
+<br>
+[Day 12 - Last stone weight](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-12)
+<br>
+[Day 13 - Contiguous array](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-13)
+<br>
+[Day 14 - Perform string shifts](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-14)
