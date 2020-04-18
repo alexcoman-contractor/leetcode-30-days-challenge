@@ -31,3 +31,7 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 [Day 14 - Perform string shifts](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-14)
 <br>
 [Day 15 - Product of array except self](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-15)
+<br>
+[Day 16 - Valid parenthesis string](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-16)
+<br>
+[Day 17 - Number of islands](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-17)
