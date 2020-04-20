@@ -37,3 +37,7 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 [Day 17 - Number of islands](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-17)
 <br>
 [Day 18 - Minimum path sum](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-18)
+<br>
+[Day 19 - Search in rotated sorted array](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-19)
+<br>
+[Day 20 - Construct binary search tree from preorder traversal](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-20)
