@@ -43,3 +43,5 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 [Day 20 - Construct binary search tree from preorder traversal](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-20)
 <br>
 [Day 21 - Leftmost Column with at Least a One](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-21)
+<br>
+[Day 22 - Subarray Sum Equals K](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-22)
