@@ -45,3 +45,5 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 [Day 21 - Leftmost Column with at Least a One](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-21)
 <br>
 [Day 22 - Subarray Sum Equals K](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-22)
+<br>
+[Day 23 - Bitwise AND of Numbers Range](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-23)
