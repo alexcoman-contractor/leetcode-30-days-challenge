@@ -47,3 +47,15 @@ More details: https://leetcode.com/explore/other/card/30-day-leetcoding-challeng
 [Day 22 - Subarray Sum Equals K](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-22)
 <br>
 [Day 23 - Bitwise AND of Numbers Range](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-23)
+<br>
+[Day 24 - Missing Number](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-24)
+<br>
+[Day 25 - LRU Cache](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-25)
+<br>
+[Day 26 - Jump Game](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-26)
+<br>
+[Day 27 - Longest Common Subsequence](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-27)
+<br>
+[Day 28 - Maximal Square](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-28)
+<br>
+[Day 29 - Binary Tree Maximum Path Sum](https://github.com/alexcoman-contractor/leetcode-30-days-challenge/blob/master/day-29)
